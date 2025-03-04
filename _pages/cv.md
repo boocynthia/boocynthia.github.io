@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Psychological Sciences (concentration in Developmental), University of Connecticut, 2024
+* M.S. in Psychological Sciences, University of Connecticut, 2021
+* M.A. in General Psychology, The New School for Social Research, 2019
+* B.S. in Psychology, Juniata College, 2017
 
 Work experience
 ======
