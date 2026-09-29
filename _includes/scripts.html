@@ -1,3 +1,47 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  (function () {
+    const toggle = document.getElementById("theme-toggle");
+    const icon = document.getElementById("theme-toggle-icon");
+    const root = document.documentElement;
+
+    if (!toggle || !icon) return;
+
+    // Use saved preference if one exists.
+    const savedTheme = localStorage.getItem("theme");
+
+    // Otherwise use the visitor's system preference.
+    const systemPrefersDark = window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+    if (savedTheme === "dark" || (!savedTheme && systemPrefersDark)) {
+      root.setAttribute("data-theme", "dark");
+    } else {
+      root.removeAttribute("data-theme");
+    }
+
+    function updateIcon() {
+      const isDark = root.getAttribute("data-theme") === "dark";
+      icon.textContent = isDark ? "☀️" : "🌙";
+    }
+
+    updateIcon();
+
+    toggle.addEventListener("click", function () {
+      const isDark = root.getAttribute("data-theme") === "dark";
+
+      if (isDark) {
+        root.removeAttribute("data-theme");
+        localStorage.setItem("theme", "light");
+      } else {
+        root.setAttribute("data-theme", "dark");
+        localStorage.setItem("theme", "dark");
+      }
+
+      updateIcon();
+    });
+  })();
+</script>
+
 {% include analytics.html %}
