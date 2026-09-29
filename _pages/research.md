@@ -11,9 +11,18 @@ I study **how language shapes children's social worlds**. My research brings tog
 
 Across these questions, I study both neurotypical and neurodivergent development using a combination of **experimental, naturalistic, and computational methods**.
 
+### Primary Research Questions
+{: #research-questions }
+
+1. [How do children adapt their language across social contexts?](#language-social-contexts)
+2. [How does context shape neurodivergent communication?](#neurodivergent-communication)
+3. [How does language shape children's beliefs about social groups?](#language-social-beliefs)
+4. [How do children develop concepts of neurodiversity?](#concepts-neurodiversity)
+
 ---
 
 ## How do children adapt their language across social contexts?
+{: #language-social-contexts }
 
 Language is inherently social: how we communicate depends on who we're talking to, what we're doing together, and the relationship we have with our conversational partner. I study how children coordinate their language with other people and what these patterns of coordination can tell us about their developing social relationships.
 
@@ -29,9 +38,12 @@ Boo, C. & Naigles, L. (2025). *Proceedings of the 49th Boston University Confere
 Boo, C. & Naigles, L. (2025). *Society for Research in Child Development, Minneapolis, MN.*  
 [**Poster (PDF)**]({{ base_path }}/files/posters/Boo_SRCD25_FINAL.pdf)
 
+[↑ Back to Research Questions](#research-questions)
+
 ---
 
 ## How does context shape neurodivergent communication?
+{: #neurodivergent-communication }
 
 Rather than asking only whether neurodivergent children communicate differently from their neurotypical peers, I ask **when, why, and under what interactional conditions communicative differences emerge**.
 
@@ -57,9 +69,12 @@ Boo, C., Shield, A., Carmona, J., Grossman, R., Naigles, L., & Zane, E. (2023). 
 Boo, C., Alpers-Leon, N., McIntyre, N., Mundy, P., & Naigles, L. (2022). *Journal of Autism and Developmental Disorders, 52*, 2970–2983.  
 [**Paper (PDF)**]({{ base_path }}/files/papers/Boo_JADD.pdf)
 
+[↑ Back to Research Questions](#research-questions)
+
 ---
 
 ## How does language shape children's beliefs about social groups?
+{: #language-social-beliefs }
 
 Children learn about their social world not only through what people explicitly teach them, but also through subtle features of everyday language. I study how these linguistic cues shape children's developing beliefs about **gender and other social groups**.
 
@@ -81,15 +96,20 @@ Boo, C., Zhou, Y. (undergraduate mentee), & Rhodes, M. (2026). *Cognitive Develo
 Zhou, Y. (undergraduate mentee), Boo, C., & Rhodes, M. (2026). *Eastern Psychological Association, Boston, MA.*  
 [**Poster (PDF)**]({{ base_path }}/files/posters/Zhou_EPA.pdf)
 
+[↑ Back to Research Questions](#research-questions)
+
 ---
 
 ## How do children develop concepts of neurodiversity?
+{: #concepts-neurodiversity }
 
 My emerging work brings together my research on **neurodivergent communication** and my research on **language and social learning**. I am interested in how children develop concepts of autism and other forms of neurodiversity, how language shapes those representations, and how children's beliefs influence their expectations about and interactions with neurodivergent peers.
 
 For example, does hearing a generic statement such as *autistic children like routines* encourage children to view autistic people as more similar to one another? How do explanations for neurodevelopmental differences shape children's beliefs about whether characteristics are stable or variable? And how do these beliefs relate to children's expectations about friendship, acceptance, and inclusion?
 
 I plan to combine controlled experiments with naturalistic investigations of how caregivers and educators talk with children about neurodiversity. Ultimately, this work asks not only **what children believe about neurodiversity, but how those beliefs are constructed through language and social interaction**.
+
+[↑ Back to Research Questions](#research-questions)
 
 ---
 
