@@ -33,4 +33,4 @@ I'm a first-generation Asian American and grew up speaking English (my native la
 
 Despite being born and raised in NYC, I'm happiest somewhere much quieter. I love being in the woods, spotting wildlife right outside my back door, and exploring new parks and trails with my husband and our dogs.
 
-I also love cooking, especially for other people. I sometimes joke that if academia doesn't work out, I'll open a café or restaurant someday. When I'm not cooking (or working), you can usually find me reading true crime, murder mysteries, or historical fiction, listening to K-pop, or binge-watching Law & Order: SVU.
+I also love cooking, especially for other people. I sometimes joke that if academia doesn't work out, I'll open a café or restaurant someday. When I'm not cooking (or working), you can usually find me reading true crime, murder mysteries, or historical fiction, listening to early 2000s R&B or K-pop, or binge-watching Law & Order: SVU.
