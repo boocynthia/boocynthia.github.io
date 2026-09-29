@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "(More) About me"
+title: "About me"
 author_profile: true
 ---
 
