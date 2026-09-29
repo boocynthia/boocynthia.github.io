@@ -7,13 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Much of my service has centered on **making academic spaces and opportunities more accessible**—whether that means helping students navigate an unfamiliar application process, creating spaces for members of an academic community to voice concerns, connecting educators with research on neurodiversity, or introducing young children to psychological science.
+Much of my service has centered on **making academic spaces and opportunities more accessible**—whether that means [helping students navigate an unfamiliar application process](#navigate-apps), [creating spaces for members of an academic community to voice concerns](#dei), [connecting educators with research on neurodiversity](#nieberp), or [introducing young children to psychological science](#ask-brain).
 
 I am especially drawn to opportunities where I can use my own experiences and training to make academia a little easier to navigate for the people coming after me.
 
 ---
 
 ## Supporting Access & Mentorship
+{: #navigate-apps }
 
 One of the most rewarding parts of my service has been helping students navigate academic pathways and application processes. Because many of the expectations surrounding higher education are implicit, I value opportunities to make those expectations more transparent and to help students identify paths that fit their own interests and goals.
 
@@ -50,6 +51,7 @@ Presentations included:
 ---
 
 ## Diversity, Equity, Inclusion & Belonging
+{: #dei }
 
 I have also contributed to efforts aimed at understanding and improving the climate of the academic communities in which I work. I see this kind of service as requiring both **creating opportunities for people to speak openly about their experiences and ensuring that those experiences are communicated back to the broader community**.
 
@@ -74,6 +76,7 @@ This role complemented my departmental service by providing a smaller, student-c
 ---
 
 ## Neurodiversity & Inclusive Science
+{: #nieberp }
 
 My interests in inclusion also intersect with my research on neurodivergent communication. In particular, I am interested in making research on neurodiversity useful and accessible to the educators and communities who interact with neurodivergent children in their everyday lives.
 
@@ -88,6 +91,7 @@ As part of the project, I helped create **accessible infographics translating re
 ---
 
 ## Community & Public Engagement
+{: #ask-brain }
 
 I also enjoy opportunities to communicate psychological science beyond traditional academic settings. These experiences have ranged from introducing school-aged children to scientific research to talking with undergraduate students about careers and identities in STEM.
 
