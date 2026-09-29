@@ -71,4 +71,4 @@ Across my teaching roles, students have consistently highlighted the clarity, or
 > *"Cynthia was always well prepared for class and is very knowledgeable about the subject of psychology. She connects with her students well and understands the hardships of life and is very flexible around our needs."*  
 > — Language & Racism student
 
-Across available course evaluations, students rated my teaching highly on measures of clarity, accessibility, feedback, responsiveness, and support for student learning. Notably, I received an average rating of 5.0/5.0 for treating students with respect across every course for which these evaluations were available.
+Across available course evaluations, students rated my teaching highly on measures of clarity, accessibility, feedback, responsiveness, and support for student learning. Notably, students rated me 5.0/5.0 for treating them with respect in every evaluated course.
