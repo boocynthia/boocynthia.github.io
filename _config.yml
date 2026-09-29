@@ -26,9 +26,9 @@ author:
   name             : "Cynthia Boo"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Research Associate in Psychology"
-  location         : "NYU"
-  employer         : ""
-  uri              : "https://kidconcepts.org"
+  location         : "New York University"
+  employer         : #
+  uri              : #
   email            : "cynthia.boo@nyu.edu" 
 
   # Academic websites
