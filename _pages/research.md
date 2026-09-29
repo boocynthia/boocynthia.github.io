@@ -59,7 +59,7 @@ Boo, C., McIntyre, N., Mundy, P., & Naigles, L. (2024). *International Max Planc
 
 **Non-autistic & autistic children: Why should I say "um" if I'm not talking to anybody?**  
 Boo, C., Shield, A., McIntyre, N., Grossman, R., Mundy, P., Naigles, L., & Zane, E. (2023). *International Pragmatics Conference, Brussels, Belgium.*  
-[**Talk Slides (PDF)**]({{ base_path }}/files/talks/Boo_IPra2023_FINAL.pdf)
+[**Talk Slides (PDF)**]({{ base_path }}/files/talks/Boo_IPrA2023_FINAL.pdf)
 
 **Non-autistic and autistic teenagers' use of "um" varies in monologic versus dialogic discourse contexts**  
 Boo, C., Shield, A., Carmona, J., Grossman, R., Naigles, L., & Zane, E. (2023). *International Society for Autism Research, Stockholm, Sweden.*  
