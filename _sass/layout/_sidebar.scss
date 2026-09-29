@@ -93,6 +93,10 @@
     height: auto;
   }
 
+   img {
+      max-wdith: 175px;
+      border-radius: 50%;
+
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
