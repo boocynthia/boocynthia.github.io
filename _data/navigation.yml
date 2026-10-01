@@ -16,6 +16,9 @@ main:
     
   - title: "Research"
     url: /research/
+
+  - title: "Research, Explained"
+    url: /research_explained/
         
   - title: "Teaching"
     url: /teaching/
