@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research in Plain Language"
-permalink: /research_explained/
+permalink: /research/research_explained/
 author_profile: true
 ---
 
