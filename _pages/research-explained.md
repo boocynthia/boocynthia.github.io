@@ -29,7 +29,7 @@ By studying natural conversations between school-aged friends, I ask questions s
 
 **Why it matters:** Conversation is more than sharing information. It is one way children build relationships, show attention, and feel understood.
 
-[Click here to read the academic version of this research](/research/#language-social-contexts)
+[Click here to read more details about this research](/research/#language-social-contexts)
 
 ---
 
@@ -50,7 +50,7 @@ For example, some differences between neurodivergent and neurotypical children�
 
 **Why it matters:** Communication is not something that happens in a vacuum. Understanding context helps us move away from one-size-fits-all ideas about what “good” communication looks like.
 
-[Click here to read the academic version of this research](/research/#neurodivergent-communication)
+[Click here to read more details about this research](/research/#neurodivergent-communication)
 
 ---
 
@@ -71,7 +71,7 @@ In parent–child conversations, my colleagues and I found that parents’ use o
 
 **Why it matters:** Everyday language can shape what children think is possible—for themselves, for other people, and for society.
 
-[Click here to read the academic version of this research](/research/#language-social-beliefs)
+[Click here to read more details about this research](/research/#language-social-beliefs)
 
 ---
 
@@ -91,7 +91,7 @@ I am interested not only in what children believe, but in how those beliefs are 
 
 **Why it matters:** The language adults use can help children understand neurodiversity with nuance, recognize individual variation, and approach differences with curiosity and respect.
 
-[Click here to read the academic version of this research](/research/#concepts-neurodiversity)
+[Click here to read more details about this research](/research/#concepts-neurodiversity)
 
 ---
 
