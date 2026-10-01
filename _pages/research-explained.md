@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research, Explained"
+title: "Research in Plain Language"
 permalink: /research_explained/
 author_profile: true
 ---
