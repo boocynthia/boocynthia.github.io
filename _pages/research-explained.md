@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Research, Explained"
 permalink: /research_explained/
+author_profile: true
 ---
 
 <p class="page-subtitle">
